@@ -1,4 +1,4 @@
-# inscription mint tools（updating）
+# inscription resource（updating）
 
 ## Ordinals && BRC20
 
@@ -15,7 +15,7 @@
 - [Gamma: How to Create a Bitcoin Ordinal Inscription NFT on Gamma](https://www.youtube.com/watch?v=2HkD9EbmjlE)
 - [Xverse: How to Inscribe Bitcoin Ordinals with Xverse Wallet](https://www.youtube.com/watch?v=ak0xXiiy8OI)
 
-### Resource
+### Resources
 
 #### Creator Resource
 
@@ -58,6 +58,65 @@
 - [Hirosystems-ordhook](https://github.com/hirosystems/ordhook)
 - [Okx-ord](https://github.com/okx/ord)
 
+*** 
+
 ## ARC20
 
-## BRC420
+### Documentation
+
+- [Official atomicals Documentation](https://docs.atomicals.xyz/)
+- [Cregis Research：2023年比特币生态调研报告](https://www.aicoin.com/article/384731.html)
+- [What are ARC-20 and Atomicals? Understanding Bitcoin's blockchain for digital asset management](https://www.okx.com/cn/learn/what-are-arc-20-and-atomicals-understanding-bitcoins-blockchain-for-digital-asset-management#:~:text=Introduction%3A%20The%20Atomicals%20Protocol%20was,creating%20digital%20items%20on%20Bitcoin.)
+- [Atomicals-guide] (https://github.com/atomicals-community/atomicals-guide)
+
+### Explanatory videos
+
+- [Discussion with A from the Atomicals Protocol creators of ARC20 and Realm names all built on Bitcoin ](https://www.youtube.com/watch?v=qMVP4QhxYXQ)
+- [Discussion with Arthur From Atomicals Protocol](https://www.youtube.com/watch?v=q-uksyn3a3o)
+
+
+### Resources
+#### Creator Resource
+
+- [Satsx](https://satsx.io/inscribe/atomicals)
+- [Wizz](https://wizz.cash/mining)
+
+#### Developer Resource
+
+- [atomicals-js](https://github.com/atomicals/atomicals-js)
+- [Atomicals GUI tool](https://github.com/wusimpl/atommical-js-tools)
+- [Atomicals mining manager](https://github.com/hack-ink/atomicalsir)
+
+#### Marketplace
+
+- [Atomicalmarket](https://atomicalmarket.com/)
+- [Satsx](https://satsx.io/marketplace)
+- [Bitatom](https://bitatom.io/)
+- [Unisat.io](https://unisat.io/atomicals/market/arc20)
+
+
+#### Indexer Resource
+
+- [Arc20-indexer](https://github.com/atomicals/atomicals-electrumx)
+- [Indexer-proxy](https://github.com/atomicals/electrumx-proxy)
+- [Indexer-proxy-rust](https://github.com/WizzWallet/elex-proxy)
+- [atomicals-electrumx-docker](https://github.com/Next-DAO/atomicals-electrumx-docker)
+- [atomicals-electrumx-proxy-docker](https://github.com/Next-DAO/atomicals-electrumx-proxy-docker)
+
+#### Endpoints Resource
+- [Official](https://ep.atomicals.xyz/proxy)
+- [Wizz Wallet](https://ep.atomicalswallet.com/proxy)
+- [Next Dao](https://ep.nextdao.xyz/proxy)
+- [Atomical Market](https://ep.atomicalmarket.com/proxy)
+- [Consync](https://ep.consync.xyz/proxy)
+- [Neutron Labs](https://ep.atomicalneutron.com/proxy)
+- [Bitverse](https://ep.bitverse.zone/proxy)
+
+
+#### Endpoints Resource(testnet)
+
+- [Official](https://eptestnet.atomicals.xyz/proxy)
+- [Wizz Wallet](https://eptest.atomicalswallet.com/proxy)
+
+
+
